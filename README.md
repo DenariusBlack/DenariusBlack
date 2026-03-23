@@ -17,14 +17,11 @@ My work sits at the intersection of **artificial intelligence**, **B2B SaaS**, a
 ### 🔍 [Averom](https://averom.co)
 > AI supplier risk intelligence platform for verifying suppliers and reducing sourcing fraud.
 >
-> Averom helps procurement teams and founders:
-> - Verify suppliers instantly using AI
-> - - Detect fraud signals and sourcing risks
->   - - Make confident, data-driven sourcing decisions
->    
->     - 🌐 **Live:** [averom.co](https://averom.co)
->    
->     - ---
+> Averom helps procurement teams and founders verify suppliers instantly using AI, detect fraud signals and sourcing risks, and make confident data-driven sourcing decisions.
+>
+> 🌐 **Live:** [averom.co](https://averom.co)
+>
+> ---
 >
 > ## My Focus Areas
 >
