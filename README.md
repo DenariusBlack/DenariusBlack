@@ -1,49 +1,26 @@
-# Hey, I'm Kevin Byun (DenariusBlack)
+# Kevin Byun — AI Engineer
 
-**AI product builder. Founder of Averom. Building real-world B2B solutions.**
-
----
-
-## About Me
-
-I'm an AI product builder focused on creating software that solves real business problems. I founded **Averom** — an AI-powered supplier risk intelligence platform that helps businesses verify suppliers, detect fraud, and make confident sourcing decisions.
-
-My work sits at the intersection of **artificial intelligence**, **B2B SaaS**, and **risk intelligence**. I build tools that are practical, scalable, and directly valuable to the businesses that use them.
-
----
+I build AI systems that ship to production and solve real business problems.
 
 ## What I'm Building
 
-### [Averom](https://averom.co) — AI Supplier Risk Intelligence
+Averom — AI-powered supplier intelligence platform for B2B operators and Amazon FBA sellers. Eight agentic modules including supplier verification, deal analysis, and AI copilot. Built solo from zero to production.
 
-Averom helps procurement teams and founders verify suppliers instantly using AI, detect fraud signals and sourcing risks, and make confident data-driven sourcing decisions.
+- Platform: [averom-v2.vercel.app](https://averom-v2.vercel.app)
+- Supplier Agent: [averom.co](https://averom.co)
 
-**Live:** [averom.co](https://averom.co)
+## Projects
 
----
-
-## My Focus Areas
-
-**AI Product Development** — Building AI-native B2B applications
-
-**Supplier Risk & Procurement** — Making supplier trust verifiable
-
-**Risk Intelligence** — Turning complex data into clear business decisions
-
-**B2B SaaS** — Scalable, user-focused business tools
-
----
+| Project | Description | Stack |
+|---|---|---|
+| [Averom](https://averom-v2.vercel.app) | AI supplier intelligence SaaS | Claude API, Next.js, Supabase |
+| [AI Deal Analyzer](https://github.com/DenariusBlack/ai-deal-analyzer) | Analyze deal risk and margin with AI | Claude API, Node.js |
+| [Supplier Compare Agent](https://github.com/DenariusBlack/supplier-compare-agent) | Compare and rank suppliers with AI | Claude API, Next.js |
 
 ## Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+Claude API · OpenAI API · LangChain · RAG · Next.js · Node.js · Supabase · Vercel · TypeScript · Stripe
 
----
+## Background
 
-## Connect
-
-[averom.co](https://averom.co) | [LinkedIn](https://linkedin.com/in/kevin-byun-ai) | [GitHub](https://github.com/DenariusBlack)
-
----
-
-*Building tools that make supplier trust verifiable.*
+3+ years operating a $6M B2B distribution business. I know the real problems AI needs to solve in supply chain and e-commerce — and I build the agents to solve them.
