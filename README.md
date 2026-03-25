@@ -23,4 +23,4 @@ Claude API · OpenAI API · LangChain · RAG · Next.js · Node.js · Supabase �
 
 ## Background
 
-3+ years operating a $6M B2B distribution business. I know the real problems AI needs to solve in supply chain and e-commerce — and I build the agents to solve them.
+7+ years operating a $6M B2B distribution business. I know the real problems AI needs to solve in supply chain and e-commerce — and I build the agents to solve them.
